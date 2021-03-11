@@ -1,5 +1,8 @@
 # B_Full-Gradient-Representation-for-Neural-Network-Visualization_Keras
 
  
-![B0](https://user-images.githubusercontent.com/76804530/110730670-30ae4580-8264-11eb-9f40-21e99097684c.png)
-![B1](https://user-images.githubusercontent.com/76804530/110730675-32780900-8264-11eb-955b-c8e469bdc8e8.png)
+
+
+![B0](https://user-images.githubusercontent.com/76804530/110730775-69e6b580-8264-11eb-8af5-468cd8cefe95.png)
+![B1](https://user-images.githubusercontent.com/76804530/110730778-6b17e280-8264-11eb-8b26-9ce1e8e656f5.png)
+
